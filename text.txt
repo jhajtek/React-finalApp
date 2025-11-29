@@ -1,2 +1,3 @@
-Jakub Hajtek
+Jakub Haj
 React Final App
+numer tel.: 123
